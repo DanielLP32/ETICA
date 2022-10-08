@@ -81,4 +81,17 @@ img {
 	
 	}
 
-	
+
+	audio{
+
+		margin: 25px 0 25px 5px;
+	border-radius: 8px;
+	display: block;
+	  margin-right: auto;
+	  
+	}
+    
+marquee{
+
+	color: #e8e8e8; font-size: 20px;
+}

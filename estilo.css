@@ -1,12 +1,12 @@
 body{
-	font-family: arial, helvetica;
-	background: #e8e8e8;
+	font-family: 'Baloo Tamma', cursive;
+	background: #aa97f0;
 }
 
 .menu{
 	list-style: none;
 	padding: 0;
-	background: #092327;
+	background: #112629;
 	width: 90%;
 	max-width: 1000px;
 	margin: auto;
@@ -44,14 +44,18 @@ body{
     font-family: sans-serif;
 }
 
+
 h1{
 
-	color: #c3d0f7; font-size: 22px;
+	color: #768cce; font-size: 22px;
 	text-align: center;
-	padding: 50px;
+	padding: 30px;
+
+		
+	  }
 	
 
-}
+
 
 h2{
 	color: #e8e8e8; font-size: 21px;
@@ -92,6 +96,16 @@ img {
 	}
     
 marquee{
+	margin: 25px 0 25px 5px;
 
 	color: #e8e8e8; font-size: 20px;
+}
+
+
+
+div {
+	float: right;
+	margin: right
+	Position:absolute;
+
 }
